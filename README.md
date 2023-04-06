@@ -9,6 +9,8 @@ Big digits (2x2 cells) for character displays.
 
 ![THUMB_small_display_big_digits](https://user-images.githubusercontent.com/117754156/230304734-3f563254-66ea-4ea5-9017-b031ce49402b.jpg)
 
+Small animation:
+![small_display_big_digits_anim](https://user-images.githubusercontent.com/117754156/230313284-92f02e45-cf21-48fd-9ea0-a0181b40c4f1.gif)
 
 
 
