@@ -4,7 +4,7 @@ Big digits (2x2 cells) for character displays.
 **YOUTUBE VIDEO: https://youtu.be/SXSujfeN_QI**
 
 
-**WOKWI PROJECT VIDEO: https://youtu.be/SXSujfeN_QI**
+**WOKWI PROJECT: https://wokwi.com/projects/361242685904461825**
 
 
 ![THUMB_small_display_big_digits](https://user-images.githubusercontent.com/117754156/230304734-3f563254-66ea-4ea5-9017-b031ce49402b.jpg)
