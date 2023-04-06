@@ -7,6 +7,7 @@ Big digits (2x2 cells) for character displays.
 **WOKWI PROJECT VIDEO: https://youtu.be/SXSujfeN_QI**
 
 
+![THUMB_small_display_big_digits](https://user-images.githubusercontent.com/117754156/230304734-3f563254-66ea-4ea5-9017-b031ce49402b.jpg)
 
 
 
