@@ -32,6 +32,7 @@ Links from the video:
 - 16x2 display with RGB backlight - https://s.click.aliexpress.com/e/_9wgpeb
 - character creator - https://tusindfryd.github.io/screenduino/
 - custom characters simplest project - https://wokwi.com/projects/294395602645549578
+- Someone else creating something similar: https://www.alpenglowindustries.com/blog/the-big-numbers-go-marching-2x2#/
 
 
 
