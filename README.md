@@ -2,7 +2,11 @@
 Big digits (2x2 cells) for character displays.
 
 **YOUTUBE VIDEO: https://youtu.be/SXSujfeN_QI**
+
+
 **WOKWI PROJECT VIDEO: https://youtu.be/SXSujfeN_QI**
+
+
 
 
 
